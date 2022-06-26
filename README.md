@@ -31,7 +31,10 @@ canny=cv2.Canny(img,120,150)
 Display all the images with their respective edge detected images.
  
 ## Program:
-
+```
+ Devoloped by : ASHWIN A O
+ Registration no: 212220230005
+```
 ``` Python
 # Import the packages
 import cv2
